@@ -28,7 +28,7 @@ salary (DOUBLE PRECISION)
 
 hireDate (DATE)
 
-##How to Use:
+```How to Use:```
 
 Create Employee: Option 1 will prompt you to enter the employee's details (name, position, salary, hire date).
 

@@ -8,9 +8,14 @@ View Employee by ID: Retrieve an employee's details using their unique ID.
 View All Employees: Display all employees stored in the database.
 Update Employee: Modify the details of an existing employee.
 Delete Employee: Remove an employee from the database.
+
+
+
 ```Database Structure:```
 Database Name: employee_d
 Table Name: employee
+
+
 ``Columns:``
 id (INTEGER, Primary Key, Auto-Increment)
 name (VARCHAR)

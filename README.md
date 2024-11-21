@@ -18,9 +18,13 @@ Table Name: employee
 
   ```Columns:```
 ``id (INTEGER, Primary Key, Auto-Increment)
+
 name (VARCHAR)
+
 position (VARCHAR)
+
 salary (DOUBLE PRECISION)
+
 hireDate (DATE)``
 
 

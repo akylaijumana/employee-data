@@ -1,5 +1,5 @@
 ## Project Title: Employee Management System
-Description:
+```Description:```
 This project is a simple Employee Management System written in Java. It allows you to manage employees in a PostgreSQL database by performing operations such as adding, viewing, updating, and deleting employee records.
 
 ```Features:```
@@ -27,6 +27,19 @@ position (VARCHAR)
 salary (DOUBLE PRECISION)
 
 hireDate (DATE)
+
+##How to Use:
+
+Create Employee: Option 1 will prompt you to enter the employee's details (name, position, salary, hire date).
+
+View Employee by ID: Option 2 lets you search for an employee by their ID.
+
+View All Employees: Option 3 lists all employees stored in the database.
+
+Update Employee: Option 4 allows you to update an existing employee's details.
+
+Delete Employee: Option 5 will remove an employee based on the provided ID.
+
 
 
 ![Снимок экрана 2024-11-21 131639](https://github.com/user-attachments/assets/3ec9db4d-7220-4306-8ec0-eaa102bebbad)

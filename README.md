@@ -16,12 +16,12 @@ Database Name: employee_d
 Table Name: employee
 
 
-``Columns:``
-id (INTEGER, Primary Key, Auto-Increment)
+  ```Columns:```
+``id (INTEGER, Primary Key, Auto-Increment)
 name (VARCHAR)
 position (VARCHAR)
 salary (DOUBLE PRECISION)
-hireDate (DATE)
+hireDate (DATE)``
 
 
 ![Снимок экрана 2024-11-21 131639](https://github.com/user-attachments/assets/3ec9db4d-7220-4306-8ec0-eaa102bebbad)
